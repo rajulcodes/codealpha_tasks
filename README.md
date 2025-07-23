@@ -1,9 +1,3 @@
-# 📁 CodeAlpha Task Submissions - July Batch
-
-Welcome to my submission for the **CodeAlpha July Batch Task Program**! This repository contains four Python-based mini-projects demonstrating core programming skills such as file handling, string manipulation, regular expressions, conditionals, and basic user interaction. Each task is self-contained and serves a practical utility.
-
----
-
 ## 📜 Table of Contents
 
 1. [📊 Stock Portfolio Tracker](#-1-stock-portfolio-tracker)
