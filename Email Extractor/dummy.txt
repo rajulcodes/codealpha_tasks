@@ -1,0 +1,17 @@
+Hello there!
+This is a sample document for testing the email extractor.
+You can find me at john.doe@example.com.
+My colleague's email is jane_smith123@webmail.org.
+Please send all inquiries to info@mycompany.net.
+We also have a support email: support-team@service.co.uk.
+Some invalid attempts:
+notanemail.com
+another@.com
+.invalid@domain.com
+user@domain
+And a few more valid ones:
+contact@solutions.info
+test.user.1@mail.io
+5fuf@gg.com
+97vy@mailG.com
+mail@Email.com
